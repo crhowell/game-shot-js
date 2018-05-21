@@ -1,2 +1,2 @@
-# game-shot-js
+# Game Show (JavaScript)
 FEWD Project 7
