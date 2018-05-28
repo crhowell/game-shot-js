@@ -167,3 +167,7 @@ button {
 .lose a {
   color: var(--color-lose);
 }
+
+.space {
+  margin-right: 0.5em;
+}
